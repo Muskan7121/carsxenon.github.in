@@ -1,7 +1,6 @@
 # carsxenon.github.in
 Designed and coded a car selling website using HTML, CSS, Javascript, PhP and MySql.
-The site is responsive and with user freindly UI.
-This site has 3 section 
+The site is responsive and with user freindly UI and has 3 sections. 
 a. Login/ Register page
 ![image](https://user-images.githubusercontent.com/117870758/200965584-e034165f-7c98-46b5-b62e-7f67cab38647.png)
 ![image](https://user-images.githubusercontent.com/117870758/200965882-22650973-54c0-4ae8-a56c-0cf7c461e33d.png)
