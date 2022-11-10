@@ -2,16 +2,18 @@
 Designed and coded a car selling website using HTML, CSS, Javascript, PhP and MySql.
 The site is responsive and with user freindly UI and has 3 sections. 
 a. Login/ Register page
-![image](https://user-images.githubusercontent.com/117870758/200965584-e034165f-7c98-46b5-b62e-7f67cab38647.png)
-![image](https://user-images.githubusercontent.com/117870758/200965882-22650973-54c0-4ae8-a56c-0cf7c461e33d.png)
-b. Home page
-![image](https://user-images.githubusercontent.com/117870758/200965972-5bd550d9-19bc-4b5c-84ba-807366252000.png)
-![image](https://user-images.githubusercontent.com/117870758/200966021-3238db84-7ed4-4450-943a-c86c1c52a6dc.png)
-![image](https://user-images.githubusercontent.com/117870758/200966063-1e7eeffe-0720-4538-b955-da20f19c10a4.png)
-![image](https://user-images.githubusercontent.com/117870758/200967351-1c511abb-c3b1-49ac-9bf1-86de1c5a23ab.png)
-c. Contact us
-![image](https://user-images.githubusercontent.com/117870758/200966175-aaa0ec62-5e2e-4b5f-8547-6f9fa13316ea.png)
+![image](https://user-images.githubusercontent.com/117870758/200967804-ef541947-1ebd-4b5f-baf0-f2ac5e782363.png)
+![image](https://user-images.githubusercontent.com/117870758/200967823-1c246980-b3ae-4c11-823a-f251ba30ca5a.png)
 
-and data is getting stored at backend.
+b. Home page
+![image](https://user-images.githubusercontent.com/117870758/200967616-bd609c21-1bda-4004-9869-d7dfbc261a71.png)
+![image](https://user-images.githubusercontent.com/117870758/200967645-1dd24df3-a409-4f73-90d8-d46029e72b61.png)
+![image](https://user-images.githubusercontent.com/117870758/200967666-b96a41a0-0fd2-408a-a492-982f39b110f6.png)
+![image](https://user-images.githubusercontent.com/117870758/200967679-62db018d-ae09-4d16-bd3a-061c393173a3.png)
+
+c. Contact us
+![image](https://user-images.githubusercontent.com/117870758/200967781-a38ef881-e198-4452-92a0-729b7b4805e6.png)
+
+and data is stored at backend.
 ![image](https://user-images.githubusercontent.com/117870758/200967061-da00d631-b8a9-4917-842c-9d0475f9c3a7.png)
 ![image](https://user-images.githubusercontent.com/117870758/200967077-ae4848ba-5763-4333-85f2-b1845305afc1.png)
