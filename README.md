@@ -15,5 +15,6 @@ c. Contact us
 ![image](https://user-images.githubusercontent.com/117870758/200967781-a38ef881-e198-4452-92a0-729b7b4805e6.png)
 
 and data is stored at backend.
-![image](https://user-images.githubusercontent.com/117870758/200967061-da00d631-b8a9-4917-842c-9d0475f9c3a7.png)
-![image](https://user-images.githubusercontent.com/117870758/200967077-ae4848ba-5763-4333-85f2-b1845305afc1.png)
+![image](https://user-images.githubusercontent.com/117870758/200968061-7dce704a-c5c3-4924-829d-d4dd750aaea3.png)
+![image](https://user-images.githubusercontent.com/117870758/200968083-0becf11c-65d4-4f78-a756-aa4f4a3086ed.png)
+
